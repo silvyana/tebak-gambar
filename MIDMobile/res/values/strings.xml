@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MID Tebak Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_anjing">MID Tebak Gambar</string>
+    <string name="title_activity_biasa">MID Tebak Gambar</string>
+    <string name="title_activity_buah">MID Tebak Gambar</string>
+    <string name="title_activity_hidup">MID Tebak Gambar</string>
+    <string name="title_activity_iga">MID Tebak Gambar</string>
+    <string name="title_activity_jambu">MID Tebak Gambar</string>
+    <string name="title_activity_jam">MID Tebak Gambar</string>
+    <string name="title_activity_kupas">MID Tebak Gambar</string>
+    <string name="title_activity_mari">MID Tebak Gambar</string>
+    <string name="title_activity_end">MID Tebak Gambar</string>
+
+</resources>
